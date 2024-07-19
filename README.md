@@ -1,5 +1,10 @@
-# Finding the shooter with_Astar Pathfinding UNITY (version 2020.2.6f1)
+# Finding the shooter with Astar Pathfinding UNITY (version 2020.2.6f1)
 The enemy uses Astar algorithm to find the player (FPS)
+
+# To execute the game
+Just download Unity3D and download the Shoot_game.exe and execute it. 
+
+Full project here --> https://drive.google.com/file/d/1LzNAbEnG-0Lz6Dp2OQCEHAnh6yRsGP5G/view?usp=sharing
 
 ## The scene
 ![image](https://github.com/user-attachments/assets/dc7e23be-cb5f-4d1b-9fd9-a4d731f8e547)
